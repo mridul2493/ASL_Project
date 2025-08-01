@@ -16,7 +16,7 @@ This project detects and translates **sign language gestures (A–Z, 0–9)** in
 - **pyttsx3 / gTTS** – for text-to-speech output
 - **Streamlit** (optional) – for deployment interface
 
-**This Model Achieves 96.25% Accuracy**
+**This Model Achieves 97.98% Accuracy**
 
 ## DataSet Link
 Kaggle dataset in form of images of sign languages. Link 
