@@ -1,4 +1,4 @@
-#  Sign to Speak - Real-Time Sign Language Translator
+#  American Sign Language - Real-Time Sign Language Translator
 
 ##  Problem Statement
 Millions of specially-abled people use sign language to communicate, but most people around them do not understand it. This creates a major barrier in daily interactions.
